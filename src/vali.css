@@ -1,0 +1,21 @@
+#r2{
+    background-color:#D8D8D8
+}
+#r1
+{
+    background-color:#E6E6E6;
+}
+#r3{
+    background-color: #F2F2F2;
+}
+
+.inputt
+{
+text-align: center;
+border-radius: 3px;
+border-width: 0.5px;
+height: 20px;
+width: 40px;
+margin: 5px;
+
+}
